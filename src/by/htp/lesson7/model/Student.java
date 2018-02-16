@@ -14,7 +14,7 @@ public class Student {
 		
 	}
 	
-	public Student(String name, String surname, Date birthDate,int age, Date joinYear) {
+	public Student(String name, String surname, Date birthDate, int age, Date joinYear) {
 		this.name = name;
 		this.surname = surname;
 		this.birthDate = birthDate;
